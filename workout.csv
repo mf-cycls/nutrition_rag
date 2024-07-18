@@ -1,0 +1,53 @@
+id,body_part,muscle,workout,video
+1,Chest,Upper Chest,Incline dumbbell press,https://www.youtube.com/embed/kfheUABvf5c
+2,Chest,Upper Chest,Incline cable crossovers,https://www.youtube.com/embed/taI4XduLpTk
+3,Chest,Upper Chest,Incline dumbbell flyes,https://www.youtube.com/embed/JCaLKhjndK8
+4,Chest,Lower Chest,Decline dumbbell press,https://www.youtube.com/embed/ERKtKA5etOE
+5,Chest,Lower Chest,Decline cable crossovers,https://www.youtube.com/embed/_l16kgu06Gs
+6,Chest,Lower Chest,Decline dumbbell flyes,https://www.youtube.com/embed/IwavO9l256g
+7,Chest,Chest Isolation,Chest flyes,https://www.youtube.com/embed/Nhvz9EzdJ4U
+8,Chest,Chest Isolation,Cable crossovers,https://www.youtube.com/embed/EsXgqAxVKbA
+9,Chest,Chest Isolation,Dumbbell flyes,https://www.youtube.com/embed/eozdVDA78K0
+10,Back,Upper,Pull-ups,https://www.youtube.com/embed/gy1dyxEdCqc
+11,Back,Upper,Barbell rows,https://www.youtube.com/embed/Nqh7q3zDCoQ
+12,Back,Upper,Dumbbell rows,https://www.youtube.com/embed/5PoEksoJNaw
+13,Back,Upper,Seated cable rows,https://www.youtube.com/embed/UCXxvVItLoM
+14,Back,Lower,Bent-over rows,https://www.youtube.com/embed/6FZHJGzMFEc
+15,Back,Lower,Hyperextensions,https://www.youtube.com/embed/qw1fAjGNFOY
+16,Back,Lower,Bird dog,https://www.youtube.com/embed/vzU5xrs1gMQ
+17,Arms,Biceps,Barbell curls,https://www.youtube.com/embed/N6paU6TGFWU
+18,Arms,Biceps,Dumbbell curls,https://www.youtube.com/embed/ykJmrZ5v0Oo
+19,Arms,Biceps,Preacher curls,https://www.youtube.com/embed/Zbs3ko8ycyg
+20,Arms,Biceps,Hammer curls,https://www.youtube.com/embed/BRVDS6HVR9Q
+21,Arms,Biceps,Concentration curls,https://www.youtube.com/embed/VMbDQ8PZazY
+22,Arms,Triceps,Close-grip bench press,https://www.youtube.com/embed/XEFDMwmrLAM
+23,Arms,Triceps,Overhead triceps extensions,https://www.youtube.com/embed/kqidUIf1eJE
+24,Arms,Triceps,Triceps pushdowns,https://www.youtube.com/embed/6Fzep104f0s
+25,Arms,Triceps,Skull crushers,https://www.youtube.com/embed/jO2Jl9eZpXk
+26,Arms,Triceps,Triceps dips,https://www.youtube.com/embed/SLk3UUV8GuI
+27,Legs,Quadriceps,Barbell squats,https://www.youtube.com/embed/PPmvh7gBTi0
+28,Legs,Quadriceps,Leg press,https://www.youtube.com/embed/p5dCqF7wWUw
+29,Legs,Quadriceps,Leg extensions,https://www.youtube.com/embed/4ZDm5EbiFI8
+30,Legs,Hamstrings,Romanian deadlifts,https://www.youtube.com/embed/5rIqP63yWFg
+31,Legs,Hamstrings,Leg curls,https://www.youtube.com/embed/FMCq0hT3KRU
+32,Legs,Glutes,Barbell hip thrusts,https://www.youtube.com/embed/EF7jXP17DPE
+33,Legs,Glutes,Donkey kicks,https://www.youtube.com/embed/EtSJ8rwm5M8
+34,Legs,Calves,Standing calf raises,https://www.youtube.com/embed/VIUg0nNw5BE
+35,Legs,Calves,Seated calf raises,https://www.youtube.com/embed/2Q-HQ3mnePg
+36,Shoulders,Anterior,Dumbbell front raises,https://www.youtube.com/embed/hRJ6tR5-if0
+37,Shoulders,Anterior,Military press,https://www.youtube.com/embed/43GSKivZnw4
+38,Shoulders,Lateral,Lateral raises,https://www.youtube.com/embed/JIhbYYA1Q90
+39,Shoulders,Posterior,Bent-over lateral raises,https://www.youtube.com/embed/34gVHrkaiz0
+40,Shoulders,Posterior,Face pulls,https://www.youtube.com/embed/0Po47vvj9g4
+41,Abs,Upper,Crunches,https://www.youtube.com/embed/eeJ_CYqSoT4
+42,Abs,Upper,Leg raises,https://www.youtube.com/embed/-1k2b8dG16g
+43,Abs,Middle,Bicycle crunches,https://www.youtube.com/embed/1we3bh9uhqY
+44,Abs,Middle,Russian twists,https://www.youtube.com/embed/wkD8rjkodUI
+45,Abs,Lower,Hanging leg raises,https://www.youtube.com/embed/RuIdJSVTKO4
+46,Abs,Lower,Plank,https://www.youtube.com/embed/pSHjTRCQxIw
+47,Forearms,Wrist Flexors,Wrist curl,https://www.youtube.com/embed/2wPpcJBe03o
+48,Forearms,Wrist Extensors,Wrist extension,https://www.youtube.com/embed/la-0c4ubkvs
+49,Forearms,Grip Strength,Plate pinch,https://www.youtube.com/embed/jFTV3DQf3HE
+50,Forearms,Grip Strength,Towel pull-up,https://www.youtube.com/embed/ylPDzV2kpGQ
+51,Forearms,Grip Strength,Fat grip dumbbell curl,https://www.youtube.com/embed/Z7wMcEOBSwQ
+52,Forearms,Grip Strength,Hammer curl,https://www.youtube.com/embed/0Jqhz1DkAeQ?
