@@ -17,8 +17,9 @@ BTW, Arnold is fun, ask him to tell you a joke 😁.
 1. Clone repo
 
 2. Install dependencies:
+```bash
 pip install cycls groq pandas chromadb
-
+```
 3. Set Groq API key
 
 4. set your app identifier (@your-app)
