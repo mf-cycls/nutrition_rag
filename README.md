@@ -1,7 +1,7 @@
 # Arnold: AI Bodybuilding Trainer
 
 AI trainer for personalized workout advice and exercise video demonstrations. This app utilizes the new Groq tool calling to enrich the experience with cool video demonstrations. Videos dataset can be found in workout.csv.
-See it in action here: **https://cycls.com/@arnold**
+See it in action here: **[@arnold](https://cycls.com/@arnold)** /n
 BTW, Arnold is fun, ask him to tell you a joke 😁.
 
 ## Tech Stack and Dependencies
